@@ -1,0 +1,9 @@
+Collecting torchvision
+  Downloading torchvision-0.6.1-cp35-cp35m-manylinux1_x86_64.whl (6.6 MB)
+Collecting pillow>=4.1.1
+  Downloading Pillow-7.2.0-cp35-cp35m-manylinux1_x86_64.whl (2.2 MB)
+Requirement already satisfied: torch==1.5.1 in /opt/conda/envs/myenv/lib/python3.5/site-packages (from torchvision) (1.5.1)
+Requirement already satisfied: numpy in /opt/conda/envs/myenv/lib/python3.5/site-packages (from torchvision) (1.18.5)
+Requirement already satisfied: future in /opt/conda/envs/myenv/lib/python3.5/site-packages (from torch==1.5.1->torchvision) (1.0.0)
+Installing collected packages: pillow, torchvision
+Successfully installed pillow-7.2.0 torchvision-0.6.1

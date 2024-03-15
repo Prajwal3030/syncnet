@@ -1,0 +1,8 @@
+Collecting torch
+  Downloading torch-1.5.1-cp35-cp35m-manylinux1_x86_64.whl (753.2 MB)
+Collecting numpy
+  Downloading numpy-1.18.5-cp35-cp35m-manylinux1_x86_64.whl (19.9 MB)
+Collecting future
+  Downloading future-1.0.0-py3-none-any.whl (491 kB)
+Installing collected packages: numpy, future, torch
+Successfully installed future-1.0.0 numpy-1.18.5 torch-1.5.1
